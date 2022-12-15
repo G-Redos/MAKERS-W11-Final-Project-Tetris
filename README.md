@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=header&text=PROJECT:%20Python%20A.I.&fontSize=75&animation=scaleIn&fontAlignY=45&desc=Makers%20Final%20Project&descSize=20&descAlignY=63&descAlign=82)
-# Tech Stack
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=130&section=header&text=Gregory%20Redos&fontSize=90&animation=scaleIn&fontAlignY=68&desc=Junior%20Full%20Stack%20Developer&descSize=20&descAlignY=82&descAlign=72)# Tech Stack
 ### IDE
 <div align="left">
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
